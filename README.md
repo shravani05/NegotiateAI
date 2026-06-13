@@ -1,5 +1,8 @@
 # NegotiateAI
 
+## Demo Video
+https://drive.google.com/file/d/1xOc-4Xg9-k5lKVM5V9fwkEzsFK0LSuYr/view?usp=sharing
+
 A personal negotiation coach for students and early-career professionals. Practice salary, rent, and freelance rate negotiations with AI-powered strategy generation, live roleplay, and real-time coaching.
 
 ## Prerequisites
